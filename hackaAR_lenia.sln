@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackaAR_lenia", "hackaAR_lenia.csproj", "{8AC3E25F-8A01-0511-921A-7B65F4F49E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackaAR_lenia.Editor", "hackaAR_lenia.Editor.csproj", "{5282C446-3838-47A6-80DA-D8893385B536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC3E25F-8A01-0511-921A-7B65F4F49E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC3E25F-8A01-0511-921A-7B65F4F49E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC3E25F-8A01-0511-921A-7B65F4F49E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC3E25F-8A01-0511-921A-7B65F4F49E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5282C446-3838-47A6-80DA-D8893385B536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5282C446-3838-47A6-80DA-D8893385B536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5282C446-3838-47A6-80DA-D8893385B536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5282C446-3838-47A6-80DA-D8893385B536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
