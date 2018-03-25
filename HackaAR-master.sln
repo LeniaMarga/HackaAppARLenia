@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackaAR-master", "HackaAR-master.csproj", "{988CCF25-764B-0685-9E55-E3F0E405ABAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackaAR-master.Editor", "HackaAR-master.Editor.csproj", "{C34517D4-3960-2CA4-01F3-5C35558761B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988CCF25-764B-0685-9E55-E3F0E405ABAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988CCF25-764B-0685-9E55-E3F0E405ABAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988CCF25-764B-0685-9E55-E3F0E405ABAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988CCF25-764B-0685-9E55-E3F0E405ABAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34517D4-3960-2CA4-01F3-5C35558761B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34517D4-3960-2CA4-01F3-5C35558761B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34517D4-3960-2CA4-01F3-5C35558761B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34517D4-3960-2CA4-01F3-5C35558761B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

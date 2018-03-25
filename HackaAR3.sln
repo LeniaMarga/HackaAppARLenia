@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackaAR3", "HackaAR3.csproj", "{A37F0479-70E0-685B-EF8C-A798C5B70BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackaAR3.Editor", "HackaAR3.Editor.csproj", "{A61905D4-09DD-5137-3ABF-D20F58BB095A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A37F0479-70E0-685B-EF8C-A798C5B70BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37F0479-70E0-685B-EF8C-A798C5B70BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37F0479-70E0-685B-EF8C-A798C5B70BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37F0479-70E0-685B-EF8C-A798C5B70BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61905D4-09DD-5137-3ABF-D20F58BB095A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61905D4-09DD-5137-3ABF-D20F58BB095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61905D4-09DD-5137-3ABF-D20F58BB095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61905D4-09DD-5137-3ABF-D20F58BB095A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

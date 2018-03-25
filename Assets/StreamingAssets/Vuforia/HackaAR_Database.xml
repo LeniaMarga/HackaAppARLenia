@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="hacka" size="100.000000 149.402390" />
+    <ImageTarget name="COSMOTE_logo_2015" size="100.000000 76.010101" />
+  </Tracking>
+</QCARConfig>
