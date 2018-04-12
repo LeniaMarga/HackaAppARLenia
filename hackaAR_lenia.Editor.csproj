@@ -319,6 +319,12 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Lenia/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
+    <Reference Include="ChannelPurchase">
+      <HintPath>C:/Users/Lenia/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.0/UnityChannel/ChannelPurchase.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityStore">
+      <HintPath>C:/Users/Lenia/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.0/UnityChannel/UnityStore.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:\Program Files\Unity\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
@@ -337,6 +343,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs" />
+    <Compile Include="Packages\com.unity.xiaomi\UnityChannel\XiaomiSupport\Editor\AppStoreModel.cs" />
+    <Compile Include="Packages\com.unity.xiaomi\UnityChannel\XiaomiSupport\Editor\AppStoreOnboardApi.cs" />
+    <Compile Include="Packages\com.unity.xiaomi\UnityChannel\XiaomiSupport\Editor\AppStoreSettingsEditor.cs" />
+    <Compile Include="Packages\com.unity.xiaomi\UnityChannel\XiaomiSupport\Editor\XiaomiPackageNameExtension.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml" />
